@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "tgn",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "ed7ef2b3-bb94-4b08-9b72-ff81c02bbace",
+      "database_name": "tgn-verify-db"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
